@@ -5,4 +5,5 @@ changed to learn about merge-base -- MASTER
 changed to learn about merge-base -- LOGIN_FEATURE
 ---------------------------------------------------
 CHANGED TO LEARN ABOUT OCTOPUS MERGE -- MASTER
+CHANGED TO LEARN ABOUT OCTOPUS MERGE -- LOGIN_FEATURE
 ---------------------------------------------------
