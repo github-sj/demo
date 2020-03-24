@@ -3,3 +3,6 @@ added a new line in master to learn about merge conflict
 changed in login_feature to learn about merge conflict
 changed to learn about merge-base -- MASTER
 changed to learn about merge-base -- LOGIN_FEATURE
+---------------------------------------------------
+CHANGED TO LEARN ABOUT OCTOPUS MERGE -- MASTER
+---------------------------------------------------
