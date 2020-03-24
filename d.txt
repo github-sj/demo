@@ -1,1 +1,3 @@
 added a new line in master to learn about git log --all option
+added another line to learn about git checkout and branching with a starting point, like
+git checkout -b login-feature new_feature
