@@ -1,1 +1,2 @@
 created from github
+added a new line in master to learn about merge conflict
