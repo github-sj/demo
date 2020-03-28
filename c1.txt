@@ -1,1 +1,2 @@
 added in 'new_feature' branch
+added in master
