@@ -39,3 +39,4 @@ B 8
 added for git reset a.txt - 1 --------------
 added for git reset a.txt - 1 --------------
 added for git reset a.txt - 1 --------------
+a.txt - 1
