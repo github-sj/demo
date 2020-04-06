@@ -3,3 +3,4 @@ added in login_feature branch
 LOCAL -- b1
 LOCAL -- b1
 added for git reset c.txt - 3
+c.txt - 3
