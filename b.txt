@@ -25,3 +25,5 @@ B1 - 6
 --------------
 added for git reset b.txt - 2
 b.txt - 2
+
+added in github unde g1 branch
